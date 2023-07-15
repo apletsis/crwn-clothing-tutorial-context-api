@@ -12,7 +12,7 @@
     "react-stripe-checkout": "2.6.3"
   },
   "devDependencies": {
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "resolutions": {
     "babel-jest": "24.7.1"
